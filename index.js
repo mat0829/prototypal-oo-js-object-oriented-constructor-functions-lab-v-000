@@ -1,3 +1,7 @@
 function Scooter(year, color, model) {
-  return 
+  return {
+    year
+    color
+    
+  }
 }
